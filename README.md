@@ -1,6 +1,6 @@
 This finds the Steam App ID of the game you enter then converts it into Lua & Manifest files you can use for SteamTools.
 
-Still in development so bugs are expected!
+Still in development so bugs are expected! (Report issues to the github)
 
 When typing the game name, try enter it as best as you can.
 
