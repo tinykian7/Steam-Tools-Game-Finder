@@ -1,5 +1,7 @@
 This finds the Steam App ID of the game you enter then converts it into Lua & Manifest files you can use for SteamTools.
 
+If the website shows error 404, it mean the game is NOT supported by this tool.
+
 Still in development so bugs are expected! (Report issues to the github)
 
 When typing the game name, try enter it as best as you can.
